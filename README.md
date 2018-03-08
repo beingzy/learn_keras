@@ -19,6 +19,8 @@ loss function. It implements a specific variants of stochastic gradient descent
 
 
 ### Variant of Neural Network architect
+**Neural Nets Category**: *feedforward networks* all information of a data point
+is processed by the algorithm in a single step.
 
 **Sequential**: a linear stack of layers
 
